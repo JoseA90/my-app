@@ -1,0 +1,17 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">Navbar</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        <a class="nav-link active" href="#">{{ 'navbar.Home' | translate }} <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="#">{{ 'navbar.Features' | translate }}</a>
+        <a class="nav-link" href="#">{{ 'navbar.Pricing' | translate }}</a>
+        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">{{ 'navbar.Disabled' | translate }}</a>
+        <button [ngClass]="{'active': activeLang == 'es'}" (click)="cambiarLenguaje('es')">{{ 'home.spanishLabel' | translate }}</button>
+        <button [ngClass]="{'active': activeLang == 'en'}" (click)="cambiarLenguaje('en')">{{ 'home.englishLabel' | translate }}</button>
+        <button [ngClass]="{'active': activeLang == 'de'}" (click)="cambiarLenguaje('de')">{{ 'home.deutscheLabel' | translate }}</button>
+      </div>
+    </div>
+  </nav>

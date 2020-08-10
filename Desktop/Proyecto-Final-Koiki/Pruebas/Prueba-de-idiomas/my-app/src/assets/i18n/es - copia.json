@@ -1,0 +1,61 @@
+{
+    "navbar": {
+        "servicios": "Servicios",
+        "sobreNosotros": "SobreNosotros",
+        "contacto": "Contacto",
+        "blog": "Blog",
+        "accede": "Accede",
+        "registrate": "Regístrate"
+    },
+
+    "banner": {
+        "mensaje": "Para obtener la información más reciente y las actualizaciones relacionadas con COVID-19, visite ..."
+    },
+
+    "cards": {
+        "titulo1": "La mejor empresa de reparto de paquetería del mundo para el mundo",
+        "titulo2": "Servicio de paquetería y mensajería para Ecommerce",
+        "titulo3": "Solución logística de última milla",
+        "titulo4": "Centros Koiki",
+        "titulo5": "Quienes somos",
+
+        "mensaje1": "Somos sostenibles desde un punto de vista social y medioambiental",
+        "mensaje2": "La solución logística sostenible para los envíos de paquetería de tu tienda online",
+        "mensaje3": "Servicio sostenible de logística de última milla para empresas de transporte",
+        "mensaje4a": "¿Quiéres ser un centro Koiki?",
+        "mensaje4b": "Únete a la red de microcentros de Koiki",
+        "mensaje5a": "Todas las empresas sociales tienen una forma de actuar que las distingue, integrando unos valores cuyos miembros transmiten como propios. En Koiki trabajamos cada día para conseguir nuestros objetivos: ",
+        "mensaje5b": "1. Crear empleo para colectivos de difícil inserción ",
+        "mensaje5c": "2. Reducir al máximo la contaminación en los barrios",
+
+        "boton1": "Rastrea tu orden",
+        "boton2": "Ser centro Koiki",
+
+        "pieDeFoto1a": "¿Tienes un comercio online y buscas un operador logístico?",
+        "pieDeFoto1b": "Descubre cómo podemos ayudarte con los envíos de tu ecommerce",
+        
+        "pieDeFoto2a": "¿Eres una empresa de transporte?",
+        "pieDeFoto2b": "Ahorra costes en la gestión de la última milla con Koiki" 
+    },
+
+    "titulos": {
+        "titulo1": "¿Por qúe elegir Koiki?",
+        "titulo2": "¿Cómo podemos ayudarte?",
+        "titulo3": "Algunos de nuestros clientes",
+        "titulo4": "Contacta con nosotros",
+        "titulo5": "Ventajas de enviar tus paquetes con Koiki",
+        "titulo6": "Ventajas de Koiki como solución logística de última milla",
+        "titulo7": "Características",
+        "titulo8": "¿Cómo funciona?",
+        "titulo9": "Nuestros centros",
+        "titulo10": "Nuestros valores",
+        "titulo11": "Nuestro equipo"
+        
+    }
+
+
+
+
+
+
+}
